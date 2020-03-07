@@ -1,8 +1,8 @@
-#Excelsior IDE for XDS Modula-2 Developers
+# Excelsior IDE for XDS Modula-2 Developers
 
 To develop Excelsior IDE (XDS IDE for short), you can use Eclipse Luna (4.4.2) or newer. It is important to use plugin-development enabled version (now called Eclipse IDE for Eclipse Committers). It includes the set of plugins called PDE (Plugin Development Environment).
 
-###Building and Running from the IDE
+## Building and Running from the IDE
 
 * git clone the project from the github. Lets say you cloned the project to c:/xds-ide-sources/ directory.
 * Start your Eclipse IDE for Eclipse Committers
